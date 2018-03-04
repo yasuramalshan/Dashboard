@@ -1,0 +1,12 @@
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\bin\GadgetCity.dll.config
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\bin\GadgetCity.dll
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\bin\GadgetCity.pdb
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\obj\Debug\GadgetCity.dll
+C:\Users\Yasura & Isuru\documents\visual studio 2013\Projects\GadgetCity\GadgetCity\obj\Debug\GadgetCity.pdb
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\bin\GadgetCity.dll.config
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\bin\GadgetCity.dll
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\bin\GadgetCity.pdb
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.dll
+C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.pdb
