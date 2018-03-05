@@ -13,6 +13,12 @@ C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCi
 J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.dll.config
 J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.dll
 J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.pdb
-J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache
 J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.dll
 J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.pdb
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\fontawesome-webfont.svg
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\fontawesome-webfont.eot
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\assets\vendor\font-awesome\fonts\FontAwesome.otf
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache

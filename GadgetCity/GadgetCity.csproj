@@ -89,7 +89,12 @@
     <Content Include="assets\vendor\chartist\js\chartist.min.js" />
     <Content Include="assets\vendor\font-awesome\css\font-awesome.css" />
     <Content Include="assets\vendor\font-awesome\css\font-awesome.min.css" />
-    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.svg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.woff2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="assets\vendor\jquery-slimscroll\jquery.slimscroll.js" />
     <Content Include="assets\vendor\jquery-slimscroll\jquery.slimscroll.min.js" />
     <Content Include="assets\vendor\jquery.easy-pie-chart\angular.easypiechart.js" />
@@ -98,6 +103,8 @@
     <Content Include="assets\vendor\jquery.easy-pie-chart\easypiechart.min.js" />
     <Content Include="assets\vendor\jquery.easy-pie-chart\jquery.easypiechart.js" />
     <Content Include="assets\vendor\jquery.easy-pie-chart\jquery.easypiechart.min.js" />
+    <Content Include="assets\vendor\jquery\jquery-1.11.1.min.js" />
+    <Content Include="assets\vendor\jquery\jquery-1.2.6.min.js" />
     <Content Include="assets\vendor\jquery\jquery.js" />
     <Content Include="assets\vendor\jquery\jquery.min.js" />
     <Content Include="assets\vendor\linearicons\fonts\Linearicons-Free.svg" />
@@ -106,9 +113,13 @@
     <Content Include="assets\vendor\toastr\toastr.js" />
     <Content Include="assets\vendor\toastr\toastr.min.css" />
     <Content Include="assets\vendor\toastr\toastr.min.js" />
+    <Content Include="frmCharts.aspx" />
     <Content Include="frmElements.aspx" />
     <Content Include="frmIndex.aspx" />
     <Content Include="frmLogin.aspx" />
+    <Content Include="frmNotifications.aspx" />
+    <Content Include="frmPanels.aspx" />
+    <Content Include="frmTables.aspx" />
     <Content Include="gcMasterPg.Master" />
     <Content Include="assets\css\demo.css.map" />
     <Content Include="assets\css\main.css.map" />
@@ -120,11 +131,18 @@
     <Content Include="assets\vendor\chartist\map\chartist.css.map" />
     <Content Include="assets\vendor\chartist\map\chartist.min.js.map" />
     <Content Include="assets\vendor\chartist\scss\chartist.scss" />
-    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.eot" />
-    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.ttf" />
-    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.woff" />
-    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.woff2" />
-    <Content Include="assets\vendor\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.eot">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\vendor\font-awesome\fonts\fontawesome-webfont.woff">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\vendor\font-awesome\fonts\FontAwesome.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="assets\vendor\jquery\jquery.min.map" />
     <Content Include="assets\vendor\linearicons\fonts\Linearicons-Free.eot" />
     <Content Include="assets\vendor\linearicons\fonts\Linearicons-Free.ttf" />
@@ -141,6 +159,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCharts.aspx.cs">
+      <DependentUpon>frmCharts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCharts.aspx.designer.cs">
+      <DependentUpon>frmCharts.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmElements.aspx.cs">
       <DependentUpon>frmElements.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -161,6 +186,27 @@
     </Compile>
     <Compile Include="frmLogin.aspx.designer.cs">
       <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotifications.aspx.cs">
+      <DependentUpon>frmNotifications.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmNotifications.aspx.designer.cs">
+      <DependentUpon>frmNotifications.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPanels.aspx.cs">
+      <DependentUpon>frmPanels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPanels.aspx.designer.cs">
+      <DependentUpon>frmPanels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTables.aspx.cs">
+      <DependentUpon>frmTables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTables.aspx.designer.cs">
+      <DependentUpon>frmTables.aspx</DependentUpon>
     </Compile>
     <Compile Include="gcMasterPg.Master.cs">
       <DependentUpon>gcMasterPg.Master</DependentUpon>
