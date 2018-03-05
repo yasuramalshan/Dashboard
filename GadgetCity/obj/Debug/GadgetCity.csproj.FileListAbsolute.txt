@@ -10,3 +10,9 @@ C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\bin\GadgetCity.pdb
 C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache
 C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.dll
 C:\Users\Yasura & Isuru\Documents\GitHub\Dashboard\GadgetCity\obj\Debug\GadgetCity.pdb
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.dll.config
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.dll
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\bin\GadgetCity.pdb
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.csprojResolveAssemblyReference.cache
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.dll
+J:\Yasura\Myprojects\Dashboard-master\GadgetCity\obj\Debug\GadgetCity.pdb

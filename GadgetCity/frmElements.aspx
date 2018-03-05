@@ -277,4 +277,9 @@
             <!-- END ALERT MESSAGES -->
         </div>
     </div>
+    <script>
+        window.onload = function () {
+            document.getElementById("element").classList.add('active');
+        };
+    </script>
 </asp:Content>
